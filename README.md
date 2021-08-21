@@ -10,7 +10,7 @@
 <img src="https://github.com/sh4de-c4t/sh4de-c4t/blob/main/py.png" />
 
 
-  ### 🛠 &nbsp;Tech Stack
+  ###  &nbsp;Tech Stack
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
 ![shell](https://img.shields.io/badge/-Shell_Script-141a20?style=flat&logo=shell)&nbsp;
