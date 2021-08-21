@@ -26,4 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-141a20?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-141a20?style=flat&logo=adobe-photoshop)&nbsp;
+  ### 📫 &nbsp;Connect with Me
+[![email](https://img.shields.io/badge/-gictorbit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](klondak@protonmail.com)
+[![telegram](https://img.shields.io/badge/-@gictor-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ali_L3Et)
 </div>
