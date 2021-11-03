@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://github.com/sh4de-c4t/sh4de-c4t/blob/main/KLONDAK%20-FINAL.gif" width="400px" />
   
-
+</br>
 
 <img src="https://github.com/sh4de-c4t/sh4de-c4t/blob/main/giphy%20(1).gif" />
   <br>
