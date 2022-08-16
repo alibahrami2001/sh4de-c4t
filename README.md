@@ -6,7 +6,7 @@
   
 </br>
 
-<img src="https://github.com/sh4de-c4t/sh4de-c4t/blob/main/giphy%20(1).gif" />
+<img src="https://github.com/sh4de-c4t/sh4de-c4t/blob/main/cat.gif" />
   <br>
   
   # <Hello, world>!👋 🌱
